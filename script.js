@@ -6,16 +6,16 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardsWon = [];
 
     const cardArray = [
-        { name: 'card1', img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.systemzaragoza.com%2Fcurso%2Fprogramacion-con-javascript%2F&psig=AOvVaw1AtNVtCDoOD0OhSjFkrvds&ust=1712393890775000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjV84DaqoUDFQAAAAAdAAAAABBf' },
-        { name: 'card1', img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.systemzaragoza.com%2Fcurso%2Fprogramacion-con-javascript%2F&psig=AOvVaw1AtNVtCDoOD0OhSjFkrvds&ust=1712393890775000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjV84DaqoUDFQAAAAAdAAAAABBf' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card5', img: 'images/success.png' },
-        { name: 'card5', img: 'images/success.png' },
+        { name: 'card1', img: 'images/c.png' },
+        { name: 'card1', img: 'images/c.png' },
+        { name: 'card2', img: 'images/c++.png' },
+        { name: 'card2', img: 'images/c++.png' },
+        { name: 'card3', img: 'images/python.png' },
+        { name: 'card3', img: 'images/python.png' },
+        { name: 'card4', img: 'images/java.png' },
+        { name: 'card4', img: 'images/java.png' },
+        { name: 'card5', img: 'images/js.png' },
+        { name: 'card5', img: 'images/js.png' },
         // ...add more pairs as needed
     ];
 
